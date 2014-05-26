@@ -3,9 +3,9 @@ To Do - w/ Ember, w/o Rails
 
 April 29, 2014
 
-Epicodus: Week11, Day2
+Epicodus: Week11, Day1 (part 2)
 
-2nd day of Ember.js
+1st day of Ember.js
 
 ****************************
 Lesson
